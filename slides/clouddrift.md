@@ -12,3 +12,21 @@
   * Common Lagrangian analysis functions
   * A framework to package custom Lagrangian data into a cloud-ready format
 </section>
+
+<section>
+
+## Available from PyPI and Conda-Forge
+
+
+pip:
+
+```bash
+pip install clouddrift
+```
+
+Conda:
+
+```bash
+conda install -c conda-forge clouddrift
+```
+</section>

@@ -1,5 +1,11 @@
 <section>
 
+## Problem and Motivation
+</section>
+
+
+<section>
+
 ## Data analysis tooling geared toward gridded data
 
 * The scientific Python stack (NumPy, Xarray, etc.) was designed for
@@ -15,12 +21,25 @@ Image credit: <a href="https://xarray.dev">xarray.dev</a>
 
 ## Lagrangian data are not gridded
 
-* In contrast to gridded data, Lagrangian data records vary in length
-* For example, deployment times and life spans vary between drifters
+* Unlike gridded data, Lagrangian data
+  * may vary in length for each contiguous segment
+  * may not conform to a regular sampling interval
+  * is intrinsically sparse
+* For example, oceanographic drifters
+  * are released at different times and have varying lifetimes
+  * may be sampling data at different times and intervals
 
-$\rightarrow$ Lagrangian data are best represented as ragged arrays
+<p class="fragment">
+  $\rightarrow$ Lagrangian data are best represented as ragged arrays.
+</p>
+</section>
 
-TODO: diagram showing the "raggedness" of a Lagrangian dataset
+
+<section>
+
+## Ragged arrays, illustrated
+
+<img src="assets/ragged_array.png" width="100%"></img>
 </section>
 
 
