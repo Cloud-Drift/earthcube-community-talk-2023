@@ -147,7 +147,7 @@ Left: trajectories spaghetti; Right: velocity map
 
 * Not only the analysis functions provided by CloudDrift any user-defined function
 * `apply_ragged()` as a higher-order function thus provides a framework to extend
-  CloudDrift to with arbitrary analysis functions.
+  CloudDrift with arbitrary analysis functions.
 
 </section>
 
