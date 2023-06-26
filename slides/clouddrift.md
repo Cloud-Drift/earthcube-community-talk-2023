@@ -107,9 +107,11 @@ from clouddrift.analysis import velocity_from_position
 u, v = velocity_from_position(lon, lat)
 ```
 
+<!--
 TODO plots:
 
 Left: trajectories spaghetti; Right: velocity map
+-->
 
 </section>
 
