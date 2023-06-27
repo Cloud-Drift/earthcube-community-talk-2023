@@ -37,7 +37,7 @@ Image credit: <a href="https://xarray.dev">xarray.dev</a>
 
 <section>
 
-## We need to solve the UX problem of Lagrangian data analysis
+## We need to solve the User Experience (UX) problem of Lagrangian data analysis
 
 * Earth scientists who use Python rely heavily on NumPy, Xarray, Pandas, and Matplotlib.
 * They write a lot of low-level boilerplate code to process and analyze Lagrangian data.
@@ -45,7 +45,7 @@ Image credit: <a href="https://xarray.dev">xarray.dev</a>
 
 <p class="fragment">
   $\rightarrow$ <b>Our challenge</b>: Can we make the UX of Lagrangian data analysis
-  on par with that of Xarray?
+  on par with that of Xarray for gridded data?
 </p>
 </section>
 

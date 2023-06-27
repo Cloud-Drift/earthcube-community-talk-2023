@@ -107,6 +107,7 @@ from clouddrift.analysis import velocity_from_position
 u, v = velocity_from_position(lon, lat)
 ```
 
+(See Shane Elipot's live demo this afternoon)
 <!--
 TODO plots:
 

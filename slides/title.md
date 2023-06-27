@@ -4,9 +4,9 @@
 
 ## Toward Seamless Lagrangian Data Analysis for Earth Sciences
 
-_**Milan Curcic**, Shane Elipot, and Philippe Miron_
+_**Milan Curcic**<sup>1</sup>, Shane Elipot<sup>1</sup>, and Philippe Miron_<sup>2</sup>
 
-University of Miami
+<sup>1</sup>University of Miami, <sup>2</sup>Florida State University
 
 27 June 2023
 
