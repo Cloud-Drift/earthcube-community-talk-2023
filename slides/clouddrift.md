@@ -86,8 +86,11 @@ Attributes: (12/16)
 
 ## Common Lagrangian analysis functions
 
-* Computing per-trajectory statistics such as velocity, rotation, etc.
+Tasks that are enabled by CloudDrift or on the roadmap:
+
 * Subsetting the data based on time, space, or other criteria
+* Computing per-trajectory statistics such as velocity, rotation, etc.
+* Computing pair- or group-wise statistics such as dispersion, diffusivity, etc.
 * Casting to an Eulerian reference frame, i.e. geographical binning or temporal binning
 </section>
 

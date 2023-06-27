@@ -51,7 +51,7 @@ Image credit: <a href="https://xarray.dev">xarray.dev</a>
 
 <section>
 
-## Can we make the UX of Lagrangian data analysis on par with that of Xarray?
+## Can we make the UX of Lagrangian data analysis on par with that of Xarray for gridded data?
 
 <ol>
 <li class="fragment">Choose a suitable data structure that is compute-, access-, and storage-efficient.</li>
