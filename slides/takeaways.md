@@ -19,4 +19,5 @@
 * CloudDrift repository: [https://github.com/cloud-drift/clouddrift](https://github.com/cloud-drift/clouddrift)
 * CloudDrift documentation: [https://cloud-drift.github.io/clouddrift/](https://cloud-drift.github.io/clouddrift/)
 * Live demo by Shane Elipot this afternoon (Tuesday, June 27)
+* We thank the NSF EarthCube award 2126413 for funding this project.
 </section>
